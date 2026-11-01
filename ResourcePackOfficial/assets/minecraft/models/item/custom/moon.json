@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/moon_drink",
+		"layer1": "item/custom/moon_bottle"
+	},
+	"display": {}
+}

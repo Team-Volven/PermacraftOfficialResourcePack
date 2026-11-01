@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_sword"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/custom/penises/horsecock"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/custom/penises/rex"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/custom/penises/drag"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/custom/penises/tenta"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/custom/penises/blaze"},
+        {"predicate": {"custom_model_data": 18001}, "model": "magic:weapons/emerald_sword"},
+        {"predicate": {"custom_model_data": 18002}, "model": "magic:other/sword_master"},
+        {"predicate": {"custom_model_data": 18003}, "model": "magic:sabers/lightsaber_green"},
+        {"predicate": {"custom_model_data": 18004}, "model": "magic:sabers/lightsaber_blue"},
+        {"predicate": {"custom_model_data": 18005}, "model": "magic:sabers/lightsaber_red"},
+        {"predicate": {"custom_model_data": 18006}, "model": "magic:sabers/lightsaber_orange"},
+        {"predicate": {"custom_model_data": 18007}, "model": "magic:sabers/lightsaber_purple"},
+        {"predicate": {"custom_model_data": 18008}, "model": "magic:weapons/emerald_sword"},
+        {"predicate": {"custom_model_data": 18009}, "model": "magic:wands/valkglow"},
+        {"predicate": {"custom_model_data": 18010}, "model": "magic:other/whitedagger"},
+        {"predicate": {"custom_model_data": 18011}, "model": "magic:weapons/demon_sword"},
+        {"predicate": {"custom_model_data": 18012}, "model": "magic:wands/felmglow"},
+        {"predicate": {"custom_model_data": 18013}, "model": "magic:wands/rivenglow"},
+        {"predicate": {"custom_model_data": 18014}, "model": "magic:wands/silver"},
+        {"predicate": {"custom_model_data": 18015}, "model": "item/custom/penises/horsecock"},
+        {"predicate": {"custom_model_data": 18016}, "model": "item/custom/penises/rex"},
+        {"predicate": {"custom_model_data": 18017}, "model": "item/custom/penises/drag"},
+        {"predicate": {"custom_model_data": 18018}, "model": "item/custom/penises/tenta"},
+        {"predicate": {"custom_model_data": 18019}, "model": "item/custom/penises/blaze"},
+        { "predicate": {"custom_model_data": 18020}, "model": "item/toffy/zelda/toffy_master_sword"}
+    ]
+}

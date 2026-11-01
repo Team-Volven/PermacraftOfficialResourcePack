@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/magic_book",
+		"layer1": "item/custom/magic_book2"
+	}
+}

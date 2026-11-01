@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/custom/knife"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/custom/knife"}
+	],
+	"display": {}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/perse_drink",
+		"layer1": "item/custom/perse_bottle"
+	},
+	"display": {}
+}

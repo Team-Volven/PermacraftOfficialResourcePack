@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/compass",
+    "textures": {
+        "layer0": "hutzdog.nether_coords:item/nether_compass"
+    }
+}

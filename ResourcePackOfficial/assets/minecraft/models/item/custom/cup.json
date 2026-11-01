@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/hotdrink_drink",
+		"layer1": "item/custom/hotdrink_cup"
+	}
+}
